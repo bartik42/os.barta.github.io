@@ -1,2 +1,0 @@
-# os.barta
-OS ukol
